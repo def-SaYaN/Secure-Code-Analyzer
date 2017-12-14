@@ -1,0 +1,12 @@
+
+Hash Value | Name | Severity 
+============================
+
+7 strcpy high
+ 
+85 fopen low
+ 
+17 fread high
+ 
+
+*****************************

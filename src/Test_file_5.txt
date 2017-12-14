@@ -1,0 +1,10 @@
+#include <stdio.h>
+#include <string.h>
+int main( )
+{
+   char str1[ ] = "fresh" ;
+   char str2[ ] = "refresh" ;
+   int i, j, k ;
+   i = strcmp () ;
+   return 0;
+}

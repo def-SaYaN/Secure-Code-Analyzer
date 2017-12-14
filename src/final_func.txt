@@ -1,0 +1,7 @@
+3intfunc(char*str)
+8strcpy(buffer,str);
+11intmain(intargc,char**argv)
+15badfile=fopen("badfile","r");
+16fread(str,sizeof(char),517,badfile);
+17func(str);
+18printf("ReturnedProperly\n");
